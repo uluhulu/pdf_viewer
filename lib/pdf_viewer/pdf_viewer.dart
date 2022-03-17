@@ -23,4 +23,5 @@ class _PdfViewerWidgetState extends State<PdfViewerWidget> {
           interactionMode: PdfInteractionMode.pan,
         ));
   }
+
 }
